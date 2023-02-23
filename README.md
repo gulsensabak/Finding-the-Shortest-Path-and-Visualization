@@ -1,3 +1,4 @@
 # Finding-the-Shortest-Path-and-Visualization
-In cordinates.txt file, we get the coordinates of all places. Tha aim is start the Migros and reach it again via using shortest path.
-Also, I create an animation version of it via using StdDraw Library.
+#### In cordinates.txt file, we get the x-y coordinates of all places. The aim is finding the shortest path from the market and homes. 
+#### Also, I create an animation version of it via using StdDraw Library.
+#### This project includes file reading and basic OOP practice (ie. creating and using objects, methods).
